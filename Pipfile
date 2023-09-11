@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+psycopg2 = "*"
+openai = "*"
+validate-email = "*"
+six = "*"
+django-heroku = "*"
+gunicorn = "*"
+whitenoise = "*"
+python-decouple = "*"
+dj-database-url = "*"
+pandas = "*"
+django-chartjs = "*"
+djangorestframework = "*"
+plotly-express = "*"
+wordcloud = "*"
+python-io = "*"
+geopy = "*"
+textblob = "*"
+glob2 = "*"
+django-cors-headers = "*"
+django-rest-framework = "*"
+nltk = "*"
+jsonlib = "*"
+statistics = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
